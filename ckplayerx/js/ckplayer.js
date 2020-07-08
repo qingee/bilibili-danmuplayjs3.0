@@ -78,7 +78,7 @@ function ckplayerConfig() {
 				offsetY: -60
 			},
 			logo: {
-				file: '',
+				file: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAB90RVh0U29mdHdhcmUATWFjcm9tZWRpYSBGaXJld29ya3MgOLVo0ngAAAAWdEVYdENyZWF0aW9uIFRpbWUAMDEvMjUvMTjidPb1AAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==',
 				align: 'left',
 				vAlign: 'top',
 				offsetX: 20,
